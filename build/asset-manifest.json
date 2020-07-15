@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e5d4ffb.chunk.css",
+    "main.js": "/static/js/main.aba762ed.chunk.js",
+    "main.js.map": "/static/js/main.aba762ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0798475.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0798475.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0ab534e9.chunk.js": "/static/js/2.0ab534e9.chunk.js",
+    "static/js/2.0ab534e9.chunk.js.map": "/static/js/2.0ab534e9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd2c50ea8430ab715c866a2aeacb8c39.js": "/precache-manifest.cd2c50ea8430ab715c866a2aeacb8c39.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2e5d4ffb.chunk.css.map": "/static/css/main.2e5d4ffb.chunk.css.map",
+    "static/js/2.0ab534e9.chunk.js.LICENSE.txt": "/static/js/2.0ab534e9.chunk.js.LICENSE.txt",
+    "static/media/Common.css": "/static/media/Poppins-Regular.e54f6a91.eot",
+    "static/media/home-img.svg": "/static/media/home-img.2992ec18.svg",
+    "static/media/marks-icon.svg": "/static/media/marks-icon.aeafc164.svg",
+    "static/media/maths-icon.svg": "/static/media/maths-icon.d70ca401.svg",
+    "static/media/negative-icon.svg": "/static/media/negative-icon.029e04fe.svg",
+    "static/media/question-icon.svg": "/static/media/question-icon.56fb4246.svg",
+    "static/media/time-icon.svg": "/static/media/time-icon.92482139.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0798475.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0ab534e9.chunk.js",
+    "static/css/main.2e5d4ffb.chunk.css",
+    "static/js/main.aba762ed.chunk.js"
+  ]
+}
